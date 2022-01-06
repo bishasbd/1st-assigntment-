@@ -1,0 +1,25 @@
+body{
+    font-family: 'Merriweather', serif; ;
+}
+h1{
+    font-size: 50px;
+}
+.skyblue-color{
+    color: rgb(52, 80, 173);
+}
+p{
+    text-align: justify;
+}
+.section-one{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+.half-width img{
+    width: 80%;
+    padding: 50px 0px 0px 50px;
+}
+.section-one div{
+  width: 40%;   
+}
